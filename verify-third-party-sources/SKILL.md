@@ -1,6 +1,6 @@
 ---
 name: verify-third-party-sources
-description: Verify third-party libraries, SDKs, CLIs, frameworks, services, protocols, and external software against local source or version-matched official documentation before relying on API behavior. Use when a user asks an agent to design, plan, discuss, implement, write, edit, review, debug, upgrade, configure, or explain code or features that may depend on packages, tools, APIs, plugins, schemas, command-line flags, configuration formats, or other non-project-owned software.
+description: Verify third-party libraries, SDKs, CLIs, frameworks, services, protocols, and external software against available source or version-matched official documentation before relying on API behavior. Use when a user asks an agent to design, plan, discuss, implement, write, edit, review, debug, upgrade, configure, or explain code or features that may depend on packages, tools, APIs, plugins, schemas, command-line flags, configuration formats, or other non-project-owned software.
 ---
 
 # Verify Third Party Sources
